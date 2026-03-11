@@ -44,7 +44,10 @@ graph LR
     style E fill:#d4a574,color:#fff
 ```
 
+*<sub>Front-end → API → Database + Automation → Analytics</sub>*
 
+      </td>
+      <td width="40%" valign="top">
 
 ### ⟁ Core Stack
 
@@ -167,4 +170,3 @@ graph LR
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </div>
-
