@@ -13,7 +13,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-sa3oud-181717?style=flat-square&logo=github)](https://github.com/sa3oud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sa3oud-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sa3oud)
 
-**✦ Building @BonoboLab • Previously @Veepee @Youwe ✦**
+**✦ Building @BonoboClub • Previously @Veepee @Youwe ✦**
 
 `◈` `⬡` `△` `⟁` `◉` `✦`
 
@@ -57,3 +57,4 @@ https://img.shields.io/badge/LinkedIn-sa3oud-0077B5?style=for-the-badge&logo=lin
 <sub>📍 Alkmaar, Netherlands • Web & Automation Architect</sub>
 
 </div>
+
