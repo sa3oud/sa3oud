@@ -1,11 +1,3 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2b5f8a&height=300&section=header&text=SAAD&fontSize=120&fontColor=fff&desc=Architecture%20•%20Automation%20•%20Kubernetes&descAlignY=60&descSize=20" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=SAAD&fontSize=120&fontColor=fff&desc=Architecture%20•%20Automation%20•%20Kubernetes&descAlignY=60&descSize=20" />
-    <img width="100%" />
-  </picture>
-</div>
-
 <!-- Simple Header -->
 <p align="center">
   <b><code>✦ Building @BonoboClub • Previously @Veepee @Youwe ✦</code></b>
@@ -141,5 +133,6 @@ graph LR
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </div>
+
 
 
