@@ -1,71 +1,40 @@
 <div align="center">
   
-  # 👋 Hi, I'm SAA'D
+  # 👋 Hi, I'm sa3oud
   
   ### 🏗️ **Web & Automation Architect**
   
-  <img src="https://img.shields.io/badge/Architecture-System%20Design-blue?style=for-the-badge" alt="Architecture">
-  <img src="https://img.shields.io/badge/Automation-CI%2FCD-purple?style=for-the-badge" alt="Automation">
-  <img src="https://img.shields.io/badge/Cloud-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes" alt="Kubernetes">
-  
-  <br>
-  
-  [◈]() [⬡]() [△]() [⟁]() [◉]() [✦]()
+  <img src="https://img.shields.io/badge/Architecture-System%20Design-blue?style=flat-square" alt="Architecture">
+  <img src="https://img.shields.io/badge/Automation-CI%2FCD-purple?style=flat-square" alt="Automation">
+  <img src="https://img.shields.io/badge/Kubernetes-☸️-326CE5?style=flat-square&logo=kubernetes" alt="Kubernetes">
   
 </div>
 
 ---
 
-## 🏗️ **Architectural Philosophy**
+## 📌 **Featured Projects**
 
-> *"Simplicity is the soul of efficiency."* — Austin Freeman
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**✦ BonoboLab Viz**](https://github.com/sa3oud/bonobo-viz) | Terminal visualization with custom glyphs | Go |
+| [**☸️ k8s-demo**](https://github.com/sa3oud/k8s-demo) | Kubernetes orchestration patterns | K8s, Docker |
+| [**👤 Face-Reading AI**](https://github.com/sa3oud/face-reading-ai) | Computer vision face detection | Python, OpenCV |
+| [**📱 SEOHolland**](https://github.com/sa3oud/SEOHolland) | iOS app for Dutch market | SwiftUI |
+| [**📸 SEO-photography**](https://github.com/sa3oud/SEO-photography) | Multi-language photography site | HTML, CSS, JS |
+| [**📰 tech-vandaag**](https://github.com/sa3oud/tech-vandaag) | Tech news static site | HTML |
 
-I design systems that are:
-- **Scalable** — Grow without breaking
-- **Maintainable** — Clean code, clear patterns
-- **Automated** — CI/CD, infrastructure as code
-- **Elegant** — Sophisticated, purposeful design
+## 🔭 **Current Focus**
 
-## 📌 **Featured Architectures**
-
-| Project | Architecture | Tech Stack |
-|---------|-------------|------------|
-| [**✦ BonoboLab Viz**](https://github.com/sa3oud/bonobo-viz) | Terminal UI with design system | Go, ANSI graphics |
-| [**☸️ k8s-demo**](https://github.com/sa3oud/k8s-demo) | Container orchestration | Kubernetes, Docker |
-| [**👤 Face-Reading AI**](https://github.com/sa3oud/face-reading-ai) | Computer vision pipeline | Python, OpenCV |
-| [**📱 SEOHolland**](https://github.com/sa3oud/SEOHolland) | MVVM iOS architecture | SwiftUI, Firebase |
-| [**📸 SEO-photography**](https://github.com/sa3oud/SEO-photography) | Multi-language web | HTML, CSS, JS |
-| [**📰 tech-vandaag**](https://github.com/sa3oud/tech-vandaag) | Static site structure | HTML |
-
-## 📊 **GitHub Stats**
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sa3oud&show_icons=true&theme=radical)
-
-</div>
-
-## 🌐 **Current Focus**
-
-- 🔭 Architecting **BonoboLab** — Sophisticated community platform
-- 🌱 Learning **Rust** for systems programming
-- 👯 Looking to collaborate on **automation tools**
-- 💬 Ask me about **system design, Kubernetes, or web architecture**
+- Building **BonoboLab** - A sophisticated community platform
+- Learning **Rust** for systems programming
+- Automating everything with **CI/CD pipelines**
 
 ## 📫 **Connect**
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-sa3oud-181717?style=for-the-badge&logo=github)](https://github.com/sa3oud)
-
-</div>
+[GitHub](https://github.com/sa3oud) • [LinkedIn](https://linkedin.com/in/sa3oud)
 
 ---
 
 <div align="center">
-  
-### ✦ *Architecting the future, one system at a time* ✦
-
-[◈]() [⬡]() [△]() [⟁]() [◉]() [✦]()
-
+<sub>✦ Web & Automation Architect ✦</sub>
 </div>
