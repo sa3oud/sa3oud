@@ -1,11 +1,3 @@
-<!-- 
-  ███████  █████  █████  ██████  
-  ██      ██   ██ ██   ██ ██   ██ 
-  ███████ ███████ ██████  ██   ██ 
-       ██ ██   ██ ██   ██ ██   ██ 
-  ███████ ██   ██ ██   ██ ██████  
--->
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2b5f8a&height=300&section=header&text=SAAD&fontSize=120&fontColor=fff&desc=Architecture%20•%20Automation%20•%20Kubernetes&descAlignY=60&descSize=20" />
@@ -114,22 +106,7 @@ graph LR
   </table>
 </div>
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <a href="https://github.com/sa3oud">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sa3oud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa3oud&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<!-- Contribution Graph -->
-<div align="center">
-  <a href="https://github.com/sa3oud">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sa3oud&theme=react-dark&hide_border=true&area=true" width="90%">
-  </a>
-</div>
 
 <!-- Connect -->
 <h2 align="center">📫 Connect</h2>
@@ -138,9 +115,7 @@ graph LR
   <a href="https://github.com/sa3oud">
     <img src="https://img.shields.io/badge/GitHub-sa3oud-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/sa3oud">
-    <img src="https://img.shields.io/badge/LinkedIn-sa3oud-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
+
 </div>
 
 <!-- Footer -->
@@ -166,4 +141,5 @@ graph LR
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </div>
+
 
