@@ -87,3 +87,19 @@
 <sub>📍 Web & Automation Architect • Building scalable systems since 2020</sub>
 
 </div>
+
+## ⟁ **TECHNICAL ARCHITECTURE**
+
+```mermaid
+graph LR
+    A[Front-End<br/>React/Next.js] --> B[API Layer<br/>Node.js/REST]
+    B --> C[Database<br/>PostgreSQL/Prisma]
+    B --> D[Automation<br/>N8N/Zapier]
+    D --> E[Data Analysis<br/>Python/SQL]
+    style A fill:#e07a5f,color:#fff
+    style B fill:#8b7ec8,color:#fff
+    style C fill:#7ba38f,color:#fff
+    style D fill:#5d9cec,color:#fff
+    style E fill:#d4a574,color:#fff
+My typical architecture stack: Front-end → API → Database + Automation → Analytics
+
