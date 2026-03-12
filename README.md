@@ -1,6 +1,6 @@
 <!-- Simple Header -->
 <p align="center">
-  <b><code>✦ Building @BonoboClub • Previously @Veepee @Youwe ✦</code></b>
+  <b><code>✦ @BonoboClub •• Previously @Veepee @Youwe ✦</code></b>
 </p>
 
 <p align="center">
@@ -133,6 +133,7 @@ graph LR
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </div>
+
 
 
 
