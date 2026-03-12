@@ -17,10 +17,10 @@
 
 ```mermaid
 graph LR
-    A[Front-End<br/>React/Next.js] --> B[API Layer<br/>Node.js/REST]
-    B --> C[Database<br/>PostgreSQL/Prisma]
-    B --> D[Automation<br/>N8N/Zapier]
-    D --> E[Data Analysis<br/>Python/SQL]
+    A[Front-End] --> B[API Layer]
+    B --> C[Database]
+    B --> D[Automation]
+    D --> E[Data Analysis]
     style A fill:#e07a5f,color:#fff
     style B fill:#8b7ec8,color:#fff
     style C fill:#7ba38f,color:#fff
@@ -133,6 +133,7 @@ graph LR
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </div>
+
 
 
 
