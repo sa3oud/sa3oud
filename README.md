@@ -1,15 +1,13 @@
 <p align="center">
-  <b><code>✦ @BonoboClub •• Previously @Veepee @Youwe ✦</code></b>
+  <img src="https://r.jina.ai/i/6f903510526e4e08a68a356396e05445" width="100%" alt="Systemic Philology Header">
 </p>
 
 <p align="center">
+  <b><code>✦ @BonoboClub •• Previously @Veepee @Youwe ✦</code></b><br>
   <b><code>◈ ⬡ △ ⟁ ◉ ✦</code></b>
 </p>
 
-<div align="center">
-  <table align="center" border="0" cellpadding="10" cellspacing="0">
-    <tr>
-      <td width="100%" valign="top">
+---
 
 ### ⟁ The Universal Syntax
 > *"To understand a system, one must first decode its root."*
@@ -21,12 +19,10 @@ I view architecture as a form of **Digital Etymology**. Just as words carry the 
 * **Semantic Automation:** Building systems that don't just move data, but understand the context of the exchange.
 * **Etymological Mapping:** Tracing the evolution of system design patterns from monolithic "root" structures to modern microservice "dialects."
 
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
 <h2 align="center">⟁ Systemic Evolution</h2>
+
 <div align="center">
 
 ```mermaid
@@ -36,6 +32,7 @@ graph TD
     B --> D[Structural Syntax]
     C --> E[BonoboClub Ecosystem]
     D --> E
+    
     style A fill:#1a1a1a,stroke:#8b7ec8,color:#fff
     style B fill:#2d2d2d,stroke:#5d9cec,color:#fff
     style E fill:#1a1a1a,stroke:#e07a5f,color:#fff
@@ -76,8 +73,9 @@ graph TD
 </table>
 </div>
 
-<div align="center">
 <br />
+
+<div align="center">
 <code>📍 Alkmaar, Netherlands</code><br />
 <code>🏢 Deciphering Systems @BonoboClub</code><br />
 <code>🔍 Current Study: The Etymology of Distributed Logic</code>
@@ -94,13 +92,10 @@ graph TD
 <div align="center">
 <br />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
-
 <p>
 <b>✦ Deciphering the future, one root at a time ✦</b><br />
 <code>◈ ⬡ △ ⟁ ◉ ✦</code>
 </p>
-
-<br />
 <img src="https://komarev.com/ghpvc/?username=sa3oud&style=flat-square&color=5D9CEC" />
 <br />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
