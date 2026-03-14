@@ -1,4 +1,3 @@
-<!-- Simple Header -->
 <p align="center">
   <b><code>✦ @BonoboClub •• Previously @Veepee @Youwe ✦</code></b>
 </p>
@@ -7,134 +6,102 @@
   <b><code>◈ ⬡ △ ⟁ ◉ ✦</code></b>
 </p>
 
-<!-- Main Content Container -->
 <div align="center">
   <table align="center" border="0" cellpadding="10" cellspacing="0">
     <tr>
-      <td width="60%" valign="top">
+      <td width="100%" valign="top">
 
-### ⟁ Technical Architecture
+### ⟁ The Universal Syntax
+> *"To understand a system, one must first decode its root."*
+
+I view architecture as a form of **Digital Etymology**. Just as words carry the DNA of ancient languages, modern systems carry the logic of universal structures. My work focuses on the intersection of automated workflows and the linguistic patterns that connect human intent to machine execution.
+
+### ⟀ Linguistic Research & Projects
+* **Universal Grammar of Code:** Investigating the "Proto-Indo-European" equivalents in backend logic—seeking the shared syntax between disparate frameworks.
+* **Semantic Automation:** Building systems that don't just move data, but understand the context of the exchange.
+* **Etymological Mapping:** Tracing the evolution of system design patterns from monolithic "root" structures to modern microservice "dialects."
+
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h2 align="center">⟁ Systemic Evolution</h2>
+<div align="center">
 
 ```mermaid
-graph LR
-    A[Front-End] --> B[API Layer]
-    B --> C[Database]
-    B --> D[Automation]
-    D --> E[Data Analysis]
-    style A fill:#e07a5f,color:#fff
-    style B fill:#8b7ec8,color:#fff
-    style C fill:#7ba38f,color:#fff
-    style D fill:#5d9cec,color:#fff
-    style E fill:#d4a574,color:#fff
-```
-
-  
-
-### ⟁ Core Stack
-
-```
-╔════════════════════════════╗
-║  ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░  90%    ║  Kubernetes
-║  ▓▓▓▓▓▓▓▓▓▓▓▓░░░░  85%    ║  Docker
-║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  88%    ║  Node.js
-║  ▓▓▓▓▓▓▓▓▓▓▓▓░░░░  82%    ║  React/Next
-║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  86%    ║  PostgreSQL
-║  ▓▓▓▓▓▓▓▓▓▓▓░░░░░  78%    ║  Python
-║  ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░  84%    ║  Automation
-╚════════════════════════════╝
-```
-
-### ◉ Current
-
-```
-📍 Alkmaar, Netherlands
-🏢 Architecture Automation @BonoboClub
-🔧 Focus: Kubernetes • Workflow Automation • System Architecture
-```
-
-  
-  </table>
+graph TD
+    A[Universal Root] --> B{Lexicon}
+    B --> C[Automation Dialect]
+    B --> D[Structural Syntax]
+    C --> E[BonoboClub Ecosystem]
+    D --> E
+    style A fill:#1a1a1a,stroke:#8b7ec8,color:#fff
+    style B fill:#2d2d2d,stroke:#5d9cec,color:#fff
+    style E fill:#1a1a1a,stroke:#e07a5f,color:#fff
 </div>
 
-<!-- Featured Projects -->
-<h2 align="center">📌 Featured Projects</h2>
+<h2 align="center">📌 Featured Artifacts</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <b>✦ BonoboLab Viz</b><br />
-        <sub>Terminal visualization with custom glyphs</sub><br />
-        <code>Go</code>
-      </td>
-      <td align="center" width="200">
-        <b>☸️ k8s-demo</b><br />
-        <sub>Kubernetes orchestration patterns</sub><br />
-        <code>K8s</code> <code>Docker</code>
-      </td>
-      <td align="center" width="200">
-        <b>👤 Face-Reading AI</b><br />
-        <sub>Computer vision face detection</sub><br />
-        <code>Python</code> <code>OpenCV</code>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="200">
-        <b>📱 SEOHolland</b><br />
-        <sub>iOS app for Dutch market</sub><br />
-        <code>SwiftUI</code>
-      </td>
-      <td align="center" width="200">
-        <b>📸 SEO-photography</b><br />
-        <sub>Multi-language photography site</sub><br />
-        <code>HTML</code> <code>CSS</code> <code>JS</code>
-      </td>
-      <td align="center" width="200">
-        <b>📰 tech-vandaag</b><br />
-        <sub>Tech news static site</sub><br />
-        <code>HTML</code>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td align="center" width="230">
+<b>✦ BonoboLab Viz</b><br />
+<sub>Visualizing the hidden glyphs of the terminal.</sub>
+</td>
+<td align="center" width="230">
+<b>☸️ k8s-Linguist</b><br />
+<sub>Orchestrating the complex grammar of containers.</sub>
+</td>
+<td align="center" width="230">
+<b>👤 Face-Reading AI</b><br />
+<sub>Decoding the non-verbal syntax of the human face.</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="230">
+<b>📱 SEOHolland</b><br />
+<sub>Adapting digital presence for the Dutch locale.</sub>
+</td>
+<td align="center" width="230">
+<b>📸 SEO-Photography</b><br />
+<sub>Capturing the visual etymology of the world.</sub>
+</td>
+<td align="center" width="230">
+<b>📰 Tech-Vandaag</b><br />
+<sub>The daily lexicon of technological evolution.</sub>
+</td>
+</tr>
+</table>
 </div>
-
-
-
-<!-- Connect -->
-<h2 align="center">📫 Connect</h2>
 
 <div align="center">
-  <a href="https://github.com/sa3oud">
-    <img src="https://img.shields.io/badge/GitHub-sa3oud-181717?style=for-the-badge&logo=github" />
-  </a>
-
+<br />
+<code>📍 Alkmaar, Netherlands</code><br />
+<code>🏢 Deciphering Systems @BonoboClub</code><br />
+<code>🔍 Current Study: The Etymology of Distributed Logic</code>
 </div>
 
-<!-- Footer -->
+<h2 align="center">📫 Establish Connection</h2>
+
 <div align="center">
-  <br />
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
-  
-  <p>
-    <b>✦ Architecting the future, one system at a time ✦</b><br />
-    <code>◈ ⬡ △ ⟁ ◉ ✦</code>
-  </p>
-  
-  <sub>
-    <b>📍 Alkmaar, Netherlands</b> • <b>Web & Automation Architect</b>
-  </sub>
-  
-  <br />
-  <br />
-  
-  <img src="https://komarev.com/ghpvc/?username=sa3oud&style=flat-square&color=5D9CEC" />
-  
-  <br />
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+<a href="https://github.com/sa3oud">
+<img src="https://img.shields.io/badge/GitHub-sa3oud-181717?style=for-the-badge&logo=github" />
+</a>
 </div>
 
+<div align="center">
+<br />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
 
+<p>
+<b>✦ Deciphering the future, one root at a time ✦</b><br />
+<code>◈ ⬡ △ ⟁ ◉ ✦</code>
+</p>
 
-
-
+<br />
+<img src="https://komarev.com/ghpvc/?username=sa3oud&style=flat-square&color=5D9CEC" />
+<br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+</div>
