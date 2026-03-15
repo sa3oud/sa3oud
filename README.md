@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://r.jina.ai/i/6f903510526e4e08a68a356396e05445" width="100%" alt="Systemic Philology Header">
+  < alt="Systemic Philology Header">
 </p>
 
 <p align="center">
