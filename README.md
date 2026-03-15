@@ -1,5 +1,5 @@
 <p align="center">
-  < alt="Systemic Philology Header">
+  Systemic Philology
 </p>
 
 <p align="center">
