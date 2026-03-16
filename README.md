@@ -23,14 +23,8 @@ I approach architecture as **Digital Etymology**. Just as language carries the D
 
 <h2 align="center">⟁ Systemic Evolution</h2>
 
-```mermaid
+
 graph TD
-    A[Universal Root] --> B{Lexicon}
-    B --> C[Automation Dialect]
-    B --> D[Structural Syntax]
-    C --> E[BonoboClub Ecosystem]
-    D --> E
-    
     style A fill:#1a1a1a,stroke:#8b7ec8,color:#fff
     style B fill:#2d2d2d,stroke:#5d9cec,color:#fff
     style E fill:#1a1a1a,stroke:#e07a5f,color:#fff
