@@ -21,13 +21,7 @@ I approach architecture as **Digital Etymology**. Just as language carries the D
 
 ---
 
-<h2 align="center">⟁ Systemic Evolution</h2>
 
-
-graph TD
-    style A fill:#1a1a1a,stroke:#8b7ec8,color:#fff
-    style B fill:#2d2d2d,stroke:#5d9cec,color:#fff
-    style E fill:#1a1a1a,stroke:#e07a5f,color:#fff
 <h2 align="center">📌 Featured Artifacts</h2>
 
 <div align="center">
